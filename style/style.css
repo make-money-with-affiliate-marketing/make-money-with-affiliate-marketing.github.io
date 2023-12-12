@@ -1,0 +1,146 @@
+body {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+img,
+video {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 10% 0px 10%;
+  display: flex;
+  align-items: center;
+}
+
+.image-container {
+
+}
+
+.header-image {
+width: 14vw;
+}
+
+.page-title-container {
+display: flex;
+flex-direction: column;
+flex: 1;
+padding: 0px 0px 0px 2vw;
+}
+
+.course-title {
+  margin: 0px;
+  padding: 0px 0px 0px 0px;
+  font-size: 4VW;
+  font-weight: 750;
+  color: goldenrod;
+  font-family: 'arial';
+}
+
+.header-hr{
+  width: 100%;
+  padding: 0px 0px 0px 0px;
+  margin-bottom: 0px;
+}
+
+.page-title {
+  margin: 0px;
+  padding: 0px 0px 0px 0px;
+  font-size: 2.5vw;
+  font-family: 'Arial';
+  color: black;
+  font-weight: lighter;
+}
+
+.main-body {
+  margin: 0px;
+  padding: 0px 5% 0px 5%;
+}
+
+.lesson-container {
+  width: 100%;
+  margin: 50px 0px 50px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+.lesson-title-container {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  font-family: 'arial';
+}
+
+.lesson-title {
+  margin: 0px 0px 0px 0px;
+  padding: 5px 5px 5px 5px;
+  background-color: rgb(120, 111, 82);
+  color: white;
+  font-size: 3vw;
+  font-weight: bold;
+}
+
+.lesson-video-container {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 5% 0px 5%;
+}
+
+.lesson-video {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+.final-word-container {
+  margin: 0px 10% 0px 10%;
+  padding: 2vw;
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(120, 111, 82);
+  background-color: rgb(120, 111, 82);
+}
+
+.final-word {
+font-family: 'arial';
+text-align: center;
+font-size: 3vw;
+font-weight: bold;
+margin: 0px;
+padding: 0px;
+color: white;
+}
+
+.hr-special {
+  margin: 0px;
+  padding: 0px;
+}
+
+.testimony-container {
+  margin: 25px 0px 25px 0px;
+}
+.testimony-title {
+  margin: 0px;
+  padding: 0px;
+  font-size: 3vw;
+  font-family: 'arial';
+  font-weight: bolder;
+}
+
+.testimony-image {
+  width: 100%;
+}
+
+.footer {
+  margin: 25px 0px 0px 0px;
+  padding: 0px;
+}
+
+.footer-info {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  color: goldenrod;
+  font-size: 2.5vw;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
